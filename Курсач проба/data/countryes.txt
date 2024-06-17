@@ -1,0 +1,197 @@
+1*Afghanistan*Pashto*+93
+2*Albania*Albanian*+355
+3*Algeria*Arabic*+213
+4*Andorra*Catalan*+376
+5*Angola*Portuguese*+244
+6*Antigua and Barbuda*English*+1-268
+7*Argentina*Spanish*+54
+8*Armenia*Armenian*+374
+9*Australia*English*+61
+10*Austria*German*+43
+11*Azerbaijan*Azerbaijani*+994
+12*Bahamas*English*+1-242
+13*Bahrain*Arabic*+973
+14*Bangladesh*Bengali*+880
+15*Barbados*English*+1-246
+16*Belarus*Belarusian*+375
+17*Belgium*Dutch*+32
+18*Belize*English*+501
+19*Benin*French*+229
+20*Bhutan*Dzongkha*+975
+21*Bolivia*Spanish*+591
+22*Bosnia and Herzegovina*Bosnian*+387
+23*Botswana*English*+267
+24*Brazil*Portuguese*+55
+25*Brunei*Malay*+673
+26*Bulgaria*Bulgarian*+359
+27*Burkina Faso*French*+226
+28*Burundi*Kirundi*+257
+29*Cabo Verde*Portuguese*+238
+30*Cambodia*Khmer*+855
+31*Cameroon*French*+237
+32*Canada*English*+1
+33*Central African Republic*French*+236
+34*Chad*French*+235
+35*Chile*Spanish*+56
+36*China*Mandarin*+86
+37*Colombia*Spanish*+57
+38*Comoros*Comorian*+269
+39*Congo*French*+242
+40*Costa Rica*Spanish*+506
+41*Croatia*Croatian*+385
+42*Cuba*Spanish*+53
+43*Cyprus*Greek*+357
+44*Czechia*Czech*+420
+45*Democratic Republic of the Congo*French*+243
+46*Denmark*Danish*+45
+47*Djibouti*Arabic*+253
+48*Dominica*English*+1-767
+49*Dominican Republic*Spanish*+1-809, +1-829, +1-849
+50*East Timor*Tetum*+670
+51*Ecuador*Spanish*+593
+52*Egypt*Arabic*+20
+53*El Salvador*Spanish*+503
+54*Equatorial Guinea*Spanish*+240
+55*Eritrea*Tigrinya*+291
+56*Estonia*Estonian*+372
+57*Eswatini*Swati*+268
+58*Ethiopia*Amharic*+251
+59*Fiji*English*+679
+60*Finland*Finnish*+358
+61*France*French*+33
+62*Gabon*French*+241
+63*Gambia*English*+220
+64*Georgia*Georgian*+995
+65*Germany*German*+49
+66*Ghana*English*+233
+67*Greece*Greek*+30
+68*Grenada*English*+1-473
+69*Guatemala*Spanish*+502
+70*Guinea*French*+224
+71*Guinea-Bissau*Portuguese*+245
+72*Guyana*English*+592
+73*Haiti*French*+509
+74*Honduras*Spanish*+504
+75*Hungary*Hungarian*+36
+76*Iceland*Icelandic*+354
+77*India*Hindi*+91
+78*Indonesia*Indonesian*+62
+79*Iran*Persian*+98
+80*Iraq*Arabic*+964
+81*Ireland*Irish*+353
+82*Israel*Hebrew*+972
+83*Italy*Italian*+39
+84*Ivory Coast*French*+225
+85*Jamaica*English*+1-876
+86*Japan*Japanese*+81
+87*Jordan*Arabic*+962
+88*Kazakhstan*Kazakh*+7
+89*Kenya*Swahili*+254
+90*Kiribati*English*+686
+91*Kosovo*Albanian*+383
+92*Kuwait*Arabic*+965
+93*Kyrgyzstan*Kyrgyz*+996
+94*Laos*Lao*+856
+95*Latvia*Latvian*+371
+96*Lebanon*Arabic*+961
+97*Lesotho*Sesotho*+266
+98*Liberia*English*+231
+99*Libya*Arabic*+218
+100*Liechtenstein*German*+423
+101*Lithuania*Lithuanian*+370
+102*Luxembourg*Luxembourgish*+352
+103*Madagascar*Malagasy*+261
+104*Malawi*Chewa*+265
+105*Malaysia*Malay*+60
+106*Maldives*Dhivehi*+960
+107*Mali*French*+223
+108*Malta*Maltese*+356
+109*Marshall Islands*Marshallese*+692
+110*Mauritania*Arabic*+222
+111*Mauritius*Mauritian Creole*+230
+112*Mexico*Spanish*+52
+113*Micronesia*English*+691
+114*Moldova*Romanian*+373
+115*Monaco*French*+377
+116*Mongolia*Mongolian*+976
+117*Montenegro*Serbian*+382
+118*Morocco*Arabic*+212
+119*Mozambique*Portuguese*+258
+120*Myanmar*Burmese*+95
+121*Namibia*English*+264
+122*Nauru*Nauruan*+674
+123*Nepal*Nepali*+977
+124*Netherlands*Dutch*+31
+125*New Zealand*English*+64
+126*Nicaragua*Spanish*+505
+127*Niger*French*+227
+128*Nigeria*English*+234
+129*North Korea*Korean*+850
+130*North Macedonia*Macedonian*+389
+131*Norway*Norwegian*+47
+132*Oman*Arabic*+968
+133*Pakistan*Urdu*+92
+134*Palau*Palauan*+680
+135*Palestine*Arabic*+970
+136*Panama*Spanish*+507
+137*Papua New Guinea*English*+675
+138*Paraguay*Spanish*+595
+139*Peru*Spanish*+51
+140*Philippines*Filipino*+63
+141*Poland*Polish*+48
+142*Portugal*Portuguese*+351
+143*Qatar*Arabic*+974
+144*Romania*Romanian*+40
+145*Russia*Russian*+7
+146*Rwanda*Kinyarwanda*+250
+147*Saint Kitts and Nevis*English*+1-869
+148*Saint Lucia*English*+1-758
+149*Saint Vincent and the Grenadines*English*+1-784
+150*Samoa*Samoan*+685
+151*San Marino*Italian*+378
+152*Sao Tome and Principe*Portuguese*+239
+153*Saudi Arabia*Arabic*+966
+154*Senegal*French*+221
+155*Serbia*Serbian*+381
+156*Seychelles*Seychellois Creole*+248
+157*Sierra Leone*English*+232
+158*Singapore*English*+65
+159*Slovakia*Slovak*+421
+160*Slovenia*Slovene*+386
+161*Solomon Islands*English*+677
+162*Somalia*Somali*+252
+163*South Africa*Zulu*+27
+164*South Korea*Korean*+82
+165*South Sudan*English*+211
+166*Spain*Spanish*+34
+167*Sri Lanka*Sinhala*+94
+168*Sudan*Arabic*+249
+169*Suriname*Dutch*+597
+170*Sweden*Swedish*+46
+171*Switzerland*German*+41
+172*Syria*Arabic*+963
+173*Taiwan*Mandarin*+886
+174*Tajikistan*Tajik*+992
+175*Tanzania*Swahili*+255
+176*Thailand*Thai*+66
+177*Togo*French*+228
+178*Tonga*Tongan*+676
+179*Trinidad and Tobago*English*+1-868
+180*Tunisia*Arabic*+216
+181*Turkey*Turkish*+90
+182*Turkmenistan*Turkmen*+993
+183*Tuvalu*Tuvaluan*+688
+184*Uganda*English*+256
+185*Ukraine*Ukrainian*+380
+186*United Arab Emirates*Arabic*+971
+187*United Kingdom*English*+44
+188*United States of America*English*+1
+189*Uruguay*Spanish*+598
+190*Uzbekistan*Uzbek*+998
+191*Vanuatu*Bislama*+678
+192*Vatican City*Italian*+379
+193*Venezuela*Spanish*+58
+194*Vietnam*Vietnamese*+84
+195*Yemen*Arabic*+967
+196*Zambia*English*+260
+197*Zimbabwe*English*+263
