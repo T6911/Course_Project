@@ -5764,3 +5764,8 @@ void startMenu() {
 		if (posCursor == 100) { exit(0); }
 	}
 }
+
+void test() {
+	system("cls");
+	cout << "Commit";
+}
