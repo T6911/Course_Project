@@ -5767,5 +5767,5 @@ void startMenu() {
 
 void test() {
 	system("cls");
-	cout << "Commit";
+	cout << "Commit1234";
 }
